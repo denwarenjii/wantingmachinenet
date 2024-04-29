@@ -1,0 +1,1 @@
+Copyright © 2023 Christian Miranda. All text is licensed CC-BY-NC-SA 4.0
