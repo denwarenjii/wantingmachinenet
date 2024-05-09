@@ -1,0 +1,9 @@
+Copyright © 2023, 2024 Christian Miranda. 
+
+Unless otherwise stated, the text work is licensed Creative Commons 
+Attributions-NonCommercial 4.0 International License. This license 
+requires that reusers give credit to the creator. It allows reusers
+to distribute, remix, adapt, and build upon the material in any
+medium or format, for noncommercial purposes only. You should have
+received a copy of the CC BY-NC-SA 4.0 along with this program.
+If not, see https://creativecommons.org/licenses/by-nc/4.0/  
