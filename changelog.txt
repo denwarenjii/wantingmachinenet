@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+| Date     | Change                                                            |
+|----------|-------------------------------------------------------------------|
+| 08/21/24 | Added image and gif compression scripts and made folders for      |
+|          | both compressed and uncompressed images and gifs. Changed         |
+|          | index.html to reflex the new banner and image names (reduced total|
+|          | size by about 100 KB).                                            |
+|----------|-------------------------------------------------------------------|
+| 09/05/24 | Added cool websites.                                              |
+|----------|-------------------------------------------------------------------|
+| 

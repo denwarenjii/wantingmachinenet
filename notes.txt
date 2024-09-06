@@ -14,4 +14,3 @@ Idea # 1:
   13) speakers
   14) hookup wire
   15) parts organizers
-
