@@ -17,6 +17,7 @@ Markdown to HTML 4.0 using Pandoc.
 - I'm not sure where all the tiles are from, but thank you to whoever made them.
 
 - I made the landing page logo with KolourPaint on Fedora KDE Plasma.
+  (https://apps.kde.org/kolourpaint/)
 
 +=============================================================================+
 | License                                                                     |
